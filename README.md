@@ -1,5 +1,4 @@
-# my_ai_projects
-我的个人AI项目列表
+# 我的个人AI项目列表
 
 ### 个人助理
 > [https://github.com/ccfarm/smart_team](https://github.com/ccfarm/simple_agent)
