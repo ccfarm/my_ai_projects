@@ -1,4 +1,4 @@
-# 我的个人AI项目列表
+# 我的AI项目列表
 
 ### 个人助理
 > [https://github.com/ccfarm/smart_team](https://github.com/ccfarm/simple_agent)
@@ -6,7 +6,7 @@
 <img width="1848" height="1544" alt="image" src="https://github.com/user-attachments/assets/7d91b9db-9d8c-42c9-8f26-d7df3e134586" />
 
 
-### 个人 A 股投研助手
+### A 股投研助手
 > [https://github.com/ccfarm/smart_team](https://github.com/ccfarm/simple_agent)
 - 一个面向个人 A 股投资者的投研助手：维护关注股票列表，自动拉取指定股票的研报 / 新闻 / 公告，并基于这些本地资料用 AI（DeepSeek）进行 RAG 问答分析。多用户隔离，可本机运行，也可部署到一台云主机随时访问。
 
