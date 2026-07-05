@@ -1,8 +1,9 @@
 # 我的AI项目列表
 
 ### harness 教学项目
-- 这是一个教学项目，包含agent的最简单但是完整的实现，包括但不限于Agent Loop、Tool Use、Context 压缩、Memory 分层、Eval、Trace、Skills、MCP。
-- 技术博客[https://juejin.cn/post/7658831018950361097](https://juejin.cn/post/7658831018950361097)
+> [https://github.com/ccfarm/harness101](https://github.com/ccfarm/harness101)
+- 用尽量少、尽量直白的 Python 代码，从零实现一个最小但链路完整的 Agent Harness， 覆盖 Agent Loop、Tool Use、Context 压缩、Memory 分层、Eval、全链路 Trace、Docker 沙箱 七大核心能力，外加 Skill（渐进式披露）与 MCP（stdio 客户端）。
+- 相关博客[https://juejin.cn/post/7658831018950361097](https://juejin.cn/post/7658831018950361097)
 
 ### 个人助理
 > [https://github.com/ccfarm/smart_team](https://github.com/ccfarm/simple_agent)
