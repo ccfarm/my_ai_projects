@@ -1,5 +1,9 @@
 # 我的AI项目列表
 
+### harness 教学项目
+- 这是一个教学项目，包含agent的最简单但是完整的实现，包括但不限于Agent Loop、Tool Use、Context 压缩、Memory 分层、Eval、Trace、Skills、MCP。
+- 技术博客[https://juejin.cn/post/7658831018950361097](https://juejin.cn/post/7658831018950361097)
+
 ### 个人助理
 > [https://github.com/ccfarm/smart_team](https://github.com/ccfarm/simple_agent)
 - 基于 LangGraph 的单机个人助理：DeepSeek 流式对话 + 多工具 + Skills（可安装的技能） + Soul（用户偏好持久指令）。
